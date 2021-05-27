@@ -17,7 +17,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - Semantic HTML5 markup
 - [CSS custom properties](https://devdocs.io/css/)
-- [grid](https://devdocs.io/css/grid)
+- [Grid](https://devdocs.io/css/grid)
 - [@media](https://devdocs.io/css/@media)
  
 
